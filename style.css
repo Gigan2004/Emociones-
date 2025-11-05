@@ -1,0 +1,32 @@
+
+span{
+    font-size: 30px;
+}
+#camera, #result{
+border: 2px dashed rgb(36, 0, 143);
+width: 350px;
+height: 300px;
+}
+.result_emotion{
+    color: rgb(0, 0, 53);
+    size: 40px;
+}
+.emoji{
+    size: 40px;
+}
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label{
+    font-size: 14px;
+    color: rgb(0, 0, 81);
+    padding: 6px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.Body{
+    background: rgb(255, 231, 182);
+    color: rgba(0, 17, 31);
+}
